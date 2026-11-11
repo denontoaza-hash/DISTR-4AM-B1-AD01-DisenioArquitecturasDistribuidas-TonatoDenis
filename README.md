@@ -170,23 +170,11 @@ Las cadenas de conexión deben modificarse de acuerdo con la configuración loca
 
 Ejemplo de configuración:
 
-
-
-```json
-
 {
-
-&#x20; "ConnectionStrings": {
-
-&#x20;   "CatalogoConnection": "Data Source=SERVIDOR\\\\SQLEXPRESS;Initial Catalog=CatalogoDB;Integrated Security=True;Trust Server Certificate=True"
-
-&#x20; }
-
+  "ConnectionStrings": {
+    "CatalogoConnection": "Data Source=SERVIDOR\\SQLEXPRESS;Initial Catalog=CatalogoDB;Integrated Security=True;Trust Server Certificate=True"
+  }
 }
-
-```
-
-
 
 Para los otros microservicios se debe utilizar su respectiva base de datos:
 

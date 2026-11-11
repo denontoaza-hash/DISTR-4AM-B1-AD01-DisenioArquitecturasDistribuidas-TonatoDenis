@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion web\\Inventario.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\controllers\\reservasstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\controllers\\reservasstockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\controllers\\existenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\controllers\\existenciascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\models\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\models\\bodega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\inventario.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\inventario.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\controllers\\movimientosinventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\controllers\\movimientosinventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\controllers\\bodegascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\controllers\\bodegascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\data\\inventariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\data\\inventariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\models\\reservastock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\models\\reservastock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\models\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\models\\movimientoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\models\\existencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\models\\existencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|c:\\programacion web\\inventario.api\\inventario.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3C92156-51AC-660D-733D-C70A52CE82F0}|Inventario.Api\\Inventario.Api.csproj|solutionrelative:inventario.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Inventario.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Inventario.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T22:23:41.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventario.Api",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Inventario.Api.csproj",
+              "RelativeDocumentMoniker": "Inventario.Api\\Inventario.Api.csproj",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Inventario.Api.csproj",
+              "RelativeToolTip": "Inventario.Api\\Inventario.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-10T22:23:39.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservasStockController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Controllers\\ReservasStockController.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Controllers\\ReservasStockController.cs",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Controllers\\ReservasStockController.cs",
+              "RelativeToolTip": "Inventario.Api\\Controllers\\ReservasStockController.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAqwAcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:59:34.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovimientosInventarioController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Controllers\\MovimientosInventarioController.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Controllers\\MovimientosInventarioController.cs",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Controllers\\MovimientosInventarioController.cs",
+              "RelativeToolTip": "Inventario.Api\\Controllers\\MovimientosInventarioController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAqwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:58:08.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BodegasController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Controllers\\BodegasController.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Controllers\\BodegasController.cs",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Controllers\\BodegasController.cs",
+              "RelativeToolTip": "Inventario.Api\\Controllers\\BodegasController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAA7wG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:57:20.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExistenciasController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Controllers\\ExistenciasController.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Controllers\\ExistenciasController.cs",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Controllers\\ExistenciasController.cs",
+              "RelativeToolTip": "Inventario.Api\\Controllers\\ExistenciasController.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAcwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:56:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Program.cs",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Program.cs",
+              "RelativeToolTip": "Inventario.Api\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:34:41.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventarioDBContext.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Data\\InventarioDBContext.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Data\\InventarioDBContext.cs",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Data\\InventarioDBContext.cs",
+              "RelativeToolTip": "Inventario.Api\\Data\\InventarioDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:33:53.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservaStock.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Models\\ReservaStock.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Models\\ReservaStock.cs",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Models\\ReservaStock.cs",
+              "RelativeToolTip": "Inventario.Api\\Models\\ReservaStock.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:33:05.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MovimientoInventario.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Models\\MovimientoInventario.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Models\\MovimientoInventario.cs",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Models\\MovimientoInventario.cs",
+              "RelativeToolTip": "Inventario.Api\\Models\\MovimientoInventario.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:32:24.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Existencia.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Models\\Existencia.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Models\\Existencia.cs",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Models\\Existencia.cs",
+              "RelativeToolTip": "Inventario.Api\\Models\\Existencia.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:31:37.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bodega.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Models\\Bodega.cs",
+              "RelativeDocumentMoniker": "Inventario.Api\\Models\\Bodega.cs",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\Models\\Bodega.cs",
+              "RelativeToolTip": "Inventario.Api\\Models\\Bodega.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T21:30:57.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Inventario.Api\\appsettings.json",
+              "ToolTip": "C:\\Programacion web\\Inventario.Api\\Inventario.Api\\appsettings.json",
+              "RelativeToolTip": "Inventario.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T05:06:31.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

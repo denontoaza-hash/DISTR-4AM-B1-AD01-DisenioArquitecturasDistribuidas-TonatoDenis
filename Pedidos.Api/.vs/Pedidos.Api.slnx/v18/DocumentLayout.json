@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion web\\Pedidos.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\controllers\\detallespedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\controllers\\detallespedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\data\\pedidosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\data\\pedidosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\pedidos.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\pedidos.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\pedidos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\pedidos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|c:\\programacion web\\pedidos.api\\pedidos.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6870AE-5B41-471A-BF56-4E138AF15DC2}|Pedidos.Api\\Pedidos.Api.csproj|solutionrelative:pedidos.api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Pedidos.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T23:00:23.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pedidos.Api",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Pedidos.Api.csproj",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Pedidos.Api.csproj",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Pedidos.Api.csproj",
+              "RelativeToolTip": "Pedidos.Api\\Pedidos.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-10T23:00:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetallesPedidoController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Controllers\\DetallesPedidoController.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Controllers\\DetallesPedidoController.cs",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Controllers\\DetallesPedidoController.cs",
+              "RelativeToolTip": "Pedidos.Api\\Controllers\\DetallesPedidoController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAhwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:23:05.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Pedidos.Api\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAqwH4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:16:27.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Pedidos.Api\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:15:46.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Program.cs",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Program.cs",
+              "RelativeToolTip": "Pedidos.Api\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:12:13.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidosDBContext.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Data\\PedidosDBContext.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Data\\PedidosDBContext.cs",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Data\\PedidosDBContext.cs",
+              "RelativeToolTip": "Pedidos.Api\\Data\\PedidosDBContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:09:23.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pedidos.Api",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Pedidos.Api.csproj",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Pedidos.Api.csproj",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Pedidos.Api.csproj",
+              "RelativeToolTip": "Pedidos.Api\\Pedidos.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-10T22:08:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Models\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Models\\DetallePedido.cs",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Models\\DetallePedido.cs",
+              "RelativeToolTip": "Pedidos.Api\\Models\\DetallePedido.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:07:13.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Models\\Pedido.cs",
+              "RelativeToolTip": "Pedidos.Api\\Models\\Pedido.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:06:59.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Pedidos.Api\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\Models\\Cliente.cs",
+              "RelativeToolTip": "Pedidos.Api\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T22:06:44.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Pedidos.Api\\appsettings.json",
+              "ToolTip": "C:\\Programacion web\\Pedidos.Api\\Pedidos.Api\\appsettings.json",
+              "RelativeToolTip": "Pedidos.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T05:10:39.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

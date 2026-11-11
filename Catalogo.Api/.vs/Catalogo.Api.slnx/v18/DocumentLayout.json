@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programacion web\\Catalogo.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\programacion web\\catalogo.api\\catalogo.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\programacion web\\catalogo.api\\catalogo.api\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\controllers\\marcascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\programacion web\\catalogo.api\\catalogo.api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\programacion web\\catalogo.api\\catalogo.api\\catalogo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\catalogo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\programacion web\\catalogo.api\\catalogo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\programacion web\\catalogo.api\\catalogo.api\\data\\catalogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\data\\catalogodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\programacion web\\catalogo.api\\catalogo.api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\programacion web\\catalogo.api\\catalogo.api\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\models\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\programacion web\\catalogo.api\\catalogo.api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|c:\\programacion web\\catalogo.api\\catalogo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B1AB97E-11DB-1324-E0D5-F7913D240BB5}|Catalogo.Api\\Catalogo.Api.csproj|solutionrelative:catalogo.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Catalogo.Api\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwIoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T16:17:17.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MarcasController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Controllers\\MarcasController.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Controllers\\MarcasController.cs",
+              "ToolTip": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Controllers\\MarcasController.cs",
+              "RelativeToolTip": "Catalogo.Api\\Controllers\\MarcasController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T16:14:26.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Catalogo.Api\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T16:14:13.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalogo.Api",
+              "DocumentMoniker": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Catalogo.Api.csproj",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Catalogo.Api.csproj",
+              "ToolTip": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Catalogo.Api.csproj",
+              "RelativeToolTip": "Catalogo.Api\\Catalogo.Api.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-10T16:09:02.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatalogoDbContext.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "ToolTip": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "RelativeToolTip": "Catalogo.Api\\Data\\CatalogoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:32:24.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Models\\Producto.cs",
+              "ToolTip": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Models\\Producto.cs",
+              "RelativeToolTip": "Catalogo.Api\\Models\\Producto.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:29:00.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Models\\Marca.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Models\\Marca.cs",
+              "ToolTip": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Models\\Marca.cs",
+              "RelativeToolTip": "Catalogo.Api\\Models\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:28:48.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Models\\Categoria.cs",
+              "RelativeToolTip": "Catalogo.Api\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:28:33.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Catalogo.Api\\appsettings.json",
+              "ToolTip": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\appsettings.json",
+              "RelativeToolTip": "Catalogo.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-10T05:10:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Catalogo.Api\\Program.cs",
+              "ToolTip": "C:\\Programacion web\\Catalogo.Api\\Catalogo.Api\\Program.cs",
+              "RelativeToolTip": "Catalogo.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T05:00:25.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

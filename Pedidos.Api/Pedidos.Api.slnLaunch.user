@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Pedidos.Api\\Pedidos.Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
